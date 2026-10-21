@@ -1,0 +1,6 @@
+{
+  "name": "DevForge AI",
+  "description": "Next-gen full-stack coding and AI learning platform with interactive playgrounds, Gemini AI Teacher, coding boss battles, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
